@@ -1,4 +1,4 @@
-#14-NLP MODEL FOR PREDICTING SARCASM
+# 14-NLP MODEL FOR PREDICTING SARCASM
 I used kaggle news headlines for sarcasm dataset for making predictions if it is a sarcastic or not.
 I used 4 simple ready model which belongs to scikit-learn and I get 
 # %95.25 accuracy on logisticregression model
